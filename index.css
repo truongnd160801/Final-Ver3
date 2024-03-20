@@ -71,7 +71,7 @@ nav{
 .wrapper{
   display: flex;
   width: 100%;
-  height: calc(100vh - 80px);
+  height: calc(120vh - 100px);
   justify-content: center ;
   align-items: center;
   padding: 0 10%;
@@ -188,7 +188,7 @@ p{
 
 .imgbox{
   position: relative;
-  width: 115%;
+  width: 135%;
   height: 100%;
 }
 
@@ -196,7 +196,7 @@ p{
   position: relative;
   height: 100%;
   width: calc(130% - 80px);
-  top: -15px;
+  top: -10px;
   right: 50px;
   transform: rotateY(180deg);
   animation: animateUser 4s linear infinite;
