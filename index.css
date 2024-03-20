@@ -21,12 +21,14 @@
 }
 
 nav{
+  position: fixed;
   display: flex;
   width: 100%;
   justify-content: space-around;
   height: 80px;
   line-height: 80px;
   z-index: 111;
+  background-color: #f3f5f8;
 }
 
 .logo{
